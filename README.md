@@ -29,22 +29,6 @@
 ![Static Badge](https://img.shields.io/badge/Resume-Base?style=for-the-badge&logo=googledocs&logoColor=4285F4&labelColor=FFFFFF&color=FFFFFF&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1DUOrNUDZgYAYyVxei6gj1TwMkcoiXGPo%2Fview%3Fusp%3Ddrive_link)
 
 
-Community
-
-    GitHub
-
-Open Collective
-Discord
-Twitter
-Awesome Badges
-Stats
-
-    Service Status
-
-Metrics dashboard
-Copyright © 2023 Shields.io. Built with Docusaurus.
-
-
 <!--
 **rose-codes/rose-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
