@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### About Me
-🌹 I'm Rose Le, and I am a Full-Stack Software Engineer, specializing in frontend development.
+🌹 I'm Rose, and I am a Full-Stack Software Engineer at Smartsheet.
 
-🖱️ I recently completed a Full-Stack Software Engineer internship on a Cloud Security Team.
+🖱️ Previously, I completed a Full-Stack Software Engineer internship on a Cloud Security Team.
 
 ✊ I received formal technical training from Ada Developers Academy, where I learned JavaScript/React, Python/Flask, Computer Science Fundamentals, and Object-Oriented Programming. Through my personal projects, I have also learned Node.js/Express, NoSQL, MongoDB, and DynamoDB.
 
